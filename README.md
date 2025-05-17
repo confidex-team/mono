@@ -67,6 +67,10 @@ Confidex extends SoloPatty by introducing confidential token support and encrypt
 4. TEE batch decrypts intents → matches via CoW algorithm → signs state root  
 5. User withdraws → encrypted withdrawal amount signed by TEE → contract verifies and releases tokens
 
+![image](https://github.com/user-attachments/assets/7119c476-41a0-4d20-a95d-5222b60cd2d7)
+
+
+
 ## 🚫 Preventing MEV & Frontrunning
 
 - 🔐 Encrypted Intents – No visibility to bots or external observers
