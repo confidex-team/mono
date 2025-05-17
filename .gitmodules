@@ -1,0 +1,9 @@
+[submodule "confidex-contract"]
+	path = confidex-contract
+	url = https://github.com/confidex-team/confidex-contract
+[submodule "confidex-next"]
+	path = confidex-next
+	url = https://github.com/confidex-team/confidex-next
+[submodule "confidex-tee"]
+	path = confidex-tee
+	url = https://github.com/confidex-team/confidex-tee
